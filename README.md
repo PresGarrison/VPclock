@@ -17,5 +17,4 @@ My goal was to take a common clock project and put my own self amusing spin on i
 
 ## Preview:
 
-![1](https://i.imgur.com/aEgjdaE.png)
-![2](https://i.imgur.com/ZrFXkhn.png)
+![1](https://i.imgur.com/03CyIO2.gif)
