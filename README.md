@@ -9,7 +9,7 @@ When the clock is on it's "Slumber" setting, it's not safe to go outside because
 ---
 ## About
 
-My goal was to take a common clock project and put my own self amusing spin on it. This clock uses HTML, CSS, Vanilla JavaScript, Bootstrap 4 and the _Date()_ API.
+My goal was to take a common clock project and put my own self amusing spin on it. This clock uses HTML, CSS, Vanilla JavaScript and Bootstrap 4. 
 
 
 ---
